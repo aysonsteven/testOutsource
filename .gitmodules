@@ -1,0 +1,3 @@
+[submodule "testsubmodule"]
+	path = testsubmodule
+	url = https://bitbucket.org/aysonsteven/testsubmodule.git
